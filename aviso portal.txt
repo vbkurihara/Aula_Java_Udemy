@@ -1,0 +1,53 @@
+'<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>Pontifícia Universidade Católica de São Paulo - Informativo</TITLE>
+<META content="text/html; charset=iso-8859-1" http-equiv=Content-Type>
+<META name=GENERATOR content="MSHTML 8.00.6001.23588">
+<STYLE></STYLE>
+</HEAD>
+<BODY bottomMargin=0 leftMargin=0 rightMargin=0 topMargin=0 bgColor=#ffffff>
+<DIV><FONT size=2 face=Arial></FONT>&nbsp;</DIV>
+<DIV align=center>
+<TABLE 
+style="FONT-FAMILY: Trebuchet MS, Arial, Helvetica, sans-serif; COLOR: #1a1a1a; FONT-SIZE: 12px" 
+border=0 cellSpacing=0 cellPadding=0 width=600>
+  <TBODY>
+  <TR>
+    <TD vAlign=top align=left><IMG style="DISPLAY: block" alt="" 
+      src="http://www4.pucsp.br/2013_informativos/informativo_pucsp/imgs/topo.jpg" 
+      width=600 height=135></TD></TR>
+  <TR>
+    <TD 
+    style="PADDING-BOTTOM: 10px; TEXT-TRANSFORM: uppercase; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; FONT-SIZE: 16px; PADDING-TOP: 0px; FONT-WEIGHT: bold" 
+    bgColor=#f2fcfc vAlign=top align=left> DADOS DE ACESSO NO PORTAL ACADÊMICO </TD></TR>
+  <TR>
+    <TD 
+    style="PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 10px" 
+    vAlign=top width="100%">
+      <TABLE 
+      style="FONT-FAMILY: Trebuchet MS, Arial, Helvetica, sans-serif; COLOR: #1a1a1a; FONT-SIZE: 12px" 
+      border=0 cellSpacing=0 cellPadding=0 width="100%">
+        <TBODY>
+        <TR>
+          <TD vAlign=top>
+		  <br>
+            <P 
+            style="COLOR: #000000; FONT-SIZE: 15px; FONT-WEIGHT: bold">Prezado(a),</P>                        
+				<br>
+				Segue abaixo seus dados para acesso no portal acadêmico: <br>
+				Usuário: '+ DadosUsuario.CODUSUARIO +'<br>
+				Senha: <style="COLOR: #000000; FONT-SIZE: 15px; FONT-WEIGHT: bold"> Números do seu CPF  <br><br>
+				
+							
+				http://portal.fundasp.org.br/Corpore.Net
+				
+		
+				<br>	
+				<br>
+            <P><FONT FONT-WEIGHT: bold color=#000000 size=2 face=Arial>Atenciosamente,</P>
+            <P>PUC-SP</P></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD vAlign=top><A href="http://www.pucsp.br/" target=_blank><IMG 
+      style="DISPLAY: block" title="Visite o site da PUC-SP" border=0 
+      src="http://www4.pucsp.br/2013_informativos/informativo_pucsp/imgs/rodape.jpg" 
+      width=600 height=30></A></TD></TR></TBODY></TABLE></DIV></BODY></HTML>'
+			
